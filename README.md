@@ -136,13 +136,25 @@ The model uses the following input features:
 
 Here is a screenshot of the home page of the application where users can input product details:
 
-![Home Page Screenshot](screenshots/Screenshot(18).png)
+![Home Page Screenshot](screenshots/homepage.png)
 
 ### 2. Prediction Result
 
-Here is how the prediction result looks after submitting the form:
+Here is how the form page looks like where you can submit the form by filling necessary details:
 
-![Prediction Result Screenshot](images/prediction_result.png)
+![Prediction Result Screenshot](screenshots/form.png)
+
+## 👨‍💻 About the Author
+
+**Abhirup Ghosh**  
+Aspiring AI/ML Developer | Python & Data Science Enthusiast  
+Passionate about building intelligent systems and solving real-world problems using Machine Learning.
+
+Feel free to connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/abhirupghosh79277716b/)
+- [GitHub](https://github.com/abhifg)
+- 📧 Email: abhirup9799@gmail.com
 
 
 
