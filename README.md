@@ -130,6 +130,19 @@ The model uses the following input features:
 ### Model Files:
 - **Model File**: [randomforest_model.pkl] - The trained model is saved as a `.pkl` file, which is loaded in the application for making predictions.
 
+## 📸 Screenshots
+
+### 1. Home Page
+
+Here is a screenshot of the home page of the application where users can input product details:
+
+![Home Page Screenshot](screenshots/Screenshot (18).png)
+
+### 2. Prediction Result
+
+Here is how the prediction result looks after submitting the form:
+
+![Prediction Result Screenshot](images/prediction_result.png)
 
 
 
