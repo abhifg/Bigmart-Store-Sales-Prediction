@@ -136,7 +136,7 @@ The model uses the following input features:
 
 Here is a screenshot of the home page of the application where users can input product details:
 
-![Home Page Screenshot](screenshots/Screenshot (18).png)
+![Home Page Screenshot](screenshots/Screenshot(18).png)
 
 ### 2. Prediction Result
 
