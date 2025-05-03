@@ -81,7 +81,10 @@ Download and place the following files in the same directory:
 Open your terminal or command prompt and install the required packages:
 
 ```bash
-pip install flask pandas numpy scikit-learn
+pip install numpy
+pip install pandas
+pip install Flask
+pip install scikit-learn
 ```
 ### 🚀 Run the Application
 
